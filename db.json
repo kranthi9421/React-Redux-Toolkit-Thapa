@@ -1,0 +1,18 @@
+{
+  "users": [
+    {
+      "name": "kranthi",
+      "email": "kranthi@gamil.com",
+      "mobile": "iphone 11",
+      "userId": 1,
+      "id": 1
+    },
+    {
+      "name": "shakku Banner",
+      "email": "shakku@test.com",
+      "mobile": "1111",
+      "userId": 3,
+      "id": 3
+    }
+  ]
+}
